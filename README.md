@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanislaus Alva Jufinto</h1>
 <h3 align="center">Not a perfect programmer, but a good guy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvajufinto" alt="alvajufinto" /></a> </p>
 
 - 🔭 I’m currently working on [MERN Social Media](https://github.com/AlvaJufinto/mern-social-media)
 
