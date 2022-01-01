@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **2014535.stanislausalvajufinto@gmail.com**
 
-- ⚡ Fun fact **I think I am cool**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/s.alva_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.alva_j" height="30" width="40" /></a>
