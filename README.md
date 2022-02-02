@@ -1,7 +1,7 @@
 <h1 align="center"> Sup? I'm Alva </h1>
 <h3 align="center">Not a perfect programmer, but a good guy</h3>
 
-<h4 align="center"> Currently working on [MERN Social Media](https://github.com/AlvaJufinto/mern-social-media) </h4> 
+<h4 align="center"> Currently working on School Landing Page</h4> 
 <h4 align="center"> and learning **MERN Stack**</h4> 
 
 <h3 align="center">Not really interested with backend stuff but I can fix your probelm</h3>
