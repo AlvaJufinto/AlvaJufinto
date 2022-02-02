@@ -1,4 +1,4 @@
-<h1 align="center"> Sup? I'm Stanislaus Alva Jufinto</h1>
+<h1 align="center"> Sup? I'm Alva </h1>
 <h3 align="center">Not a perfect programmer, but a good guy</h3>
 
 <h4 align="center"> Currently working on [MERN Social Media](https://github.com/AlvaJufinto/mern-social-media) </h4> 
