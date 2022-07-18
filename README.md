@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://pbs.twimg.com/media/FR6mzdJUcAAbZuX?format=png&name=small" alt="alvajufinto" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvajufinto&label=Profile%20views&color=0e75b6&style=flat" alt="alvajufinto" /> </p>
+<p align="left"> <img src="https://media.discordapp.net/attachments/907913157736034354/971393574191120394/unknown.png?width=482&height=426" alt="alvajufinto" /> </p>
 
 - 🌱 I’m currently learning **Typescript and NextJS**
 
