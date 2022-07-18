@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvajufinto&label=Profile%20views&color=0e75b6&style=flat" alt="alvajufinto" /> </p>
 
-- 🌱 I’m currently learning `**Typescript and NextJS**`
+- 🌱 I’m currently learning `Typescript and NextJS`
 
-- 💬 Ask me about `**js and react**`
+- 💬 Ask me about `Js and React`
 
-- 📫 How to reach me `**misterstanis@gmail.com**`
+- 📫 How to reach me `misterstanis@gmail.com`
 
-- ⚡ Fun fact `**I think I am smart**`
+- ⚡ Fun fact `I think I am smart`
 
 
 
