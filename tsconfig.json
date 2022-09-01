@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "ES2022",
     "lib": [
       "dom",
       "dom.iterable",
@@ -20,8 +20,6 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": [
-    "./src/declaration.d.ts"
-  ],  
+  "include": ["./src/declaration.d.ts"],  
   "exclude": ["node_modules", "src/**/*.spec.ts"]
 }

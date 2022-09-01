@@ -1,4 +1,6 @@
-import { FC } from 'react';
+import React, { FC } from 'react';
+
+import "./style.scss";
 
 interface IState {
   image: string,
@@ -7,9 +9,9 @@ interface IState {
   imageCircle?: boolean,
 }
 
-const Image: FC<IState> = ({ image, imageWidth, imageHeight, imageCircle }) => {
+const ImageContainer: FC<IState> = ({ image, imageWidth, imageHeight, imageCircle }) => {
   return (
-    <img className="Image" src={image} alt="JustImage" style={{
+    <img className="ImageContainer" src={image} alt="JustImage" style={{
       width: imageWidth,
       height: imageHeight,
       borderRadius: imageCircle ? '50%' : '0%',
@@ -17,4 +19,4 @@ const Image: FC<IState> = ({ image, imageWidth, imageHeight, imageCircle }) => {
   );
 }
 
-export default Image;
+export default ImageContainer;
