@@ -1,13 +1,13 @@
+import React from 'react';
 import { FC } from 'react';
-import ArrowIcon from "./../../images/icon/arrow-link-icon.png";
+import LinkContainer from '../../atoms/LinkContainer/LinkContainer';
 
 import './style.scss';
 
 const Home: FC = () => {
   return (
     <div className="App">
-      <img src={ArrowIcon} alt="" />
-      asds
+      <LinkContainer linkRef='#' linkText='bruh' />
     </div>
   );
 }

@@ -22,5 +22,6 @@
   },
   "include": [
     "./src/declaration.d.ts"
-  ]
+  ],  
+  "exclude": ["node_modules", "src/**/*.spec.ts"]
 }

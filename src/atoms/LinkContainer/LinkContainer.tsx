@@ -1,7 +1,7 @@
-import { FC } from 'react';
+import React, { FC } from 'react';
 import Text from '../Text/Text';
 
-// import ArrowIcon from "./../../images/icon/arrow-link-icon.png";
+import ArrowIcon from "./../../images/icon/arrow-link-icon.png";
 import './style.scss';
 
 interface IState {
@@ -13,7 +13,7 @@ const LinkContainer: FC<IState> = ({ linkRef, linkText }) => {
   return (
     <div className="LinkContainer">
         <Text text={linkText} textType="ordinary" />
-        {/* <img src={ArrowIcon} alt="" /> */}
+        <img className='LinkContainer-Img' src={ArrowIcon} alt="" />
     </div>
   );
 }
