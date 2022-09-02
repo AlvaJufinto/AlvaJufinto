@@ -1,5 +1,10 @@
 @import url(https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400&display=swap); 
 
+$light-blue: #23B6CE;
+$white: #FFFFFF;
+$grey: #9CA3AF;
+$hard-grey: #2A2A2A;
+
 * {
     margin: 0;
     padding: 0;
@@ -7,6 +12,7 @@
     font-family: 'Quicksand', sans-serif;
 }
 
-$light-blue: #23B6CE;
-$white: #FFFFFF;
-$grey: #9CA3AF;
+body {
+    background-color: $hard-grey;
+    display: flex;
+}

@@ -11,7 +11,7 @@ interface IState {
 const DescriptionLink: FC<IState> = ({ linkRef, linkText }) => {
   return (
     <div className="DescriptionLink">
-
+            
     </div>
   );
 }
