@@ -7,6 +7,8 @@ import DescriptionContainer from '../../molecules/DescriptionContainer/Descripti
 import Text, { TextType } from '../../atoms/Text/Text';
 import PortfolioContainer from '../../molecules/PortfolioContainer/PortfolioContainer';
 
+import LibraerityLogo from "./../.././assets/img/libraerity-img.png"
+
 import './style.scss';
 
 const Home: FC = () => {
@@ -18,7 +20,7 @@ const Home: FC = () => {
       <DescriptionContainer title="awkoawkoakwo">
         <Text text="adsads" textType={TextType.Ordinary} />
       </DescriptionContainer>
-      <PortfolioContainer />
+      <PortfolioContainer year="2021" title='Libraerity' description='Educational theme  website that my team and I created for "Dynamic-16" frontend development competition with NextJS' link="#" image={LibraerityLogo} />
     </div>
   );
 }

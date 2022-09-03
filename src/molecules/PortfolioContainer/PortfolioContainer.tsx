@@ -1,6 +1,7 @@
 import React, { FC, ReactNode } from 'react';
 import Text, { TextType } from './../../atoms/Text/Text';
 import LinkContainer from '../../atoms/LinkContainer/LinkContainer';
+import ImageContainer from '../../atoms/ImageContainer/ImageContainer';
 
 import './style.scss';
 
@@ -9,7 +10,7 @@ interface IState {
   title: string,
   description: string,
   link: string,
-  image: File,
+  image: string,
 }
 
 const PortfolioContainer: FC<IState> = ({ year, title, description, link, image }) => {
@@ -21,6 +22,7 @@ const PortfolioContainer: FC<IState> = ({ year, title, description, link, image 
           <Text text={description} textType={TextType.Ordinary} />
           <LinkContainer linkText='Source Code' linkRef='#' />
         </div>
+        <ImageContainer image={image} imageHeight="110px" />
     </div>
   );
 }

@@ -11,10 +11,10 @@ interface IState {
 
 const LinkContainer: FC<IState> = ({ linkRef, linkText }) => {
   return (
-    <div className="LinkContainer">
+    <a href={linkRef} target="_blank" className="LinkContainer">
         <Text text={linkText} textType={TextType.Ordinary} />
         <img className='LinkContainer-Img' src={ArrowIcon} alt="" />
-    </div>
+    </a>
   );
 }
 

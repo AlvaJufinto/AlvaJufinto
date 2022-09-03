@@ -1,0 +1,11 @@
+.PortfolioContainer {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+    .PortFolioContainer-LeftSide {
+        display: flex;
+        flex-direction: column;
+        gap: 13px;
+    }
+}

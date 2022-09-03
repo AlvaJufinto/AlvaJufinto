@@ -12,7 +12,7 @@ interface IState {
 const PortfolioImageContainer: FC<IState> = ({ emoticon }) => {
   return (
     <div className="PortfolioImageContainer">
-        <ImageContainer image={LogoAJ} imageHeight={110} imageWidth={110} />
+        <ImageContainer image={LogoAJ} imageHeight="110px" imageWidth="110px" />
         <div className="PortfolioImageContainer-Emoticon">
             {emoticon}
         </div>

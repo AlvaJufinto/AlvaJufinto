@@ -2,7 +2,13 @@
     display: flex;
     color: white;
     align-items: center;
+    font-weight: bold;
+    text-decoration: none;
     
+    &:hover {
+        text-decoration: underline;
+    }
+
     .LinkContainer-Img {
         margin: 0 0 0 20px;
         height: 15px;

@@ -4,8 +4,8 @@ import "./style.scss";
 
 interface IState {
   image: string,
-  imageWidth?: number,
-  imageHeight?: number,
+  imageWidth?: string,
+  imageHeight?: string,
   imageCircle?: boolean,
 }
 
