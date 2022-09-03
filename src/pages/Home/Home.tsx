@@ -1,18 +1,13 @@
 import React, { FC } from 'react';
 
+// molecules 
+import Footer from '../../molecules/Footer/Footer';
+
+// organism
 import ProfileContainer from '../../organisms/ProfileContainer/ProfileContainer';
 import StackContainer from '../../organisms/StackContainer/StackContainer';
 import ProjectsContainer from '../../organisms/ProjectsContainer/ProjectsContainer';
 
-import LinkContainer from '../../atoms/LinkContainer/LinkContainer';
-import TechStackImage from '../../molecules/TechStackImagesContainer/TechStackImage';
-import Text, { TextType } from '../../atoms/Text/Text';
-import PortfolioContainer from '../../molecules/PortfolioContainer/PortfolioContainer';
-import Footer from '../../molecules/Footer/Footer';
-
-import LibraerityLogo from "./../.././assets/img/libraerity-img.png"
-
-import './style.scss';
 
 const Home: FC = () => {
   return (
@@ -20,9 +15,6 @@ const Home: FC = () => {
       <ProfileContainer />
       <StackContainer />
       <ProjectsContainer />
-      {/* <LinkContainer linkRef='#' linkText='bruh' />
-      <TechStackImage />
-      <PortfolioContainer year="2021" title='Libraerity' description='Educational theme  website that my team and I created for "Dynamic-16" frontend development competition with NextJS' link="#" image={LibraerityLogo} /> */}
       <Footer />
     </div>
   );
