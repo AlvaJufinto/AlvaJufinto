@@ -1,0 +1,9 @@
+.Footer {
+    display: flex;
+    justify-content: space-between;
+
+    .Footer-LinkContainer {
+        display: flex;
+        gap: 15px;
+    }
+}
