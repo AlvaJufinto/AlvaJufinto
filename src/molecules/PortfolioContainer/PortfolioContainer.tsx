@@ -5,7 +5,7 @@ import ImageContainer from '../../atoms/ImageContainer/ImageContainer';
 
 import './style.scss';
 
-interface IState {
+export interface IState {
   year: string,
   title: string,
   description: string,
@@ -22,7 +22,7 @@ const PortfolioContainer: FC<IState> = ({ year, title, description, link, image 
           <Text text={description} textType={TextType.Ordinary} />
           <LinkContainer linkText='Source Code' linkRef='#' />
         </div>
-        <ImageContainer image={image} imageHeight="110px" />
+        <ImageContainer image={image} imageWidth="110px" />
     </div>
   );
 }
