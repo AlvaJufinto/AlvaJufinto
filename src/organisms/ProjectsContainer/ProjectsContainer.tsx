@@ -1,10 +1,6 @@
 import React, { FC } from 'react';
 
-// atoms 
-import Text, { TextType } from '../../atoms/Text/Text';
-
 // molecules
-import TechStackImage from '../../molecules/TechStackImagesContainer/TechStackImage';
 import DescriptionContainer from '../../molecules/DescriptionContainer/DescriptionContainer';
 import PortfolioContainer, { IState as IProps } from '../../molecules/PortfolioContainer/PortfolioContainer';
 

@@ -1,4 +1,4 @@
-import React, { FC, ReactNode } from 'react';
+import React, { FC } from 'react';
 import Text, { TextType } from './../../atoms/Text/Text';
 import LinkContainer from '../../atoms/LinkContainer/LinkContainer';
 import ImageContainer from '../../atoms/ImageContainer/ImageContainer';
