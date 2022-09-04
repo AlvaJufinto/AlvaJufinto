@@ -17,7 +17,7 @@ const ProjectsContainer: FC = () => {
       year: "2021",
       title: "Libraerity",
       description: `Educational theme  website that my team and I created for "Dynamic-16" frontend development competition with NextJS`,
-      link: "#",
+      link: "https://github.com/AlvaJufinto/libraerity",
       image: LibraerityImg,
     },
     {
@@ -25,7 +25,7 @@ const ProjectsContainer: FC = () => {
       title: "SIJA-26",
       description: `A personal website project built with ReactJS containing information about SIJA majors at SMKN 26 Jakarta
      `,
-      link: "#",
+      link: "https://github.com/AlvaJufinto/sija-26",
       image: SIJAImg,
     },
     {
@@ -33,7 +33,7 @@ const ProjectsContainer: FC = () => {
       title: "Genshin Discord Bot",
       description: `A bot for a communication app called "Discord" that provides
       information about the videogame titled "Genshin Impact"`,
-      link: "#",
+      link: "https://github.com/AlvaJufinto/GenshinDiscordBot",
       image: DiscordImg,
     },
   ]

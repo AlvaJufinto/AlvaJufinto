@@ -20,7 +20,7 @@ const PortfolioContainer: FC<IState> = ({ year, title, description, link, image 
           <Text text={year} textType={TextType.Small} />
           <Text text={title} textType={TextType.Title} />
           <Text text={description} textType={TextType.Ordinary} />
-          <LinkContainer linkText='Source Code' linkRef='#' />
+          <LinkContainer linkText='Source Code' linkRef={link} />
         </div>
         <ImageContainer image={image} imageWidth="110px" />
     </div>

@@ -9,9 +9,9 @@ const Footer: FC = () => {
     <div className="Footer">
       <Text text="Contact" textType={TextType.Headline} />
       <div className="Footer-LinkContainer">
-        <LinkContainer linkText='Github' linkRef="#" />
-        <LinkContainer linkText='LinkedIn' linkRef="#" />
-        <LinkContainer linkText='Instagram' linkRef="#" />
+        <LinkContainer linkText='Github' linkRef="https://github.com/AlvaJufinto" />
+        <LinkContainer linkText='LinkedIn' linkRef="https://www.linkedin.com/in/alva-jufinto/" />
+        <LinkContainer linkText='Instagram' linkRef="https://www.instagram.com/alva.jufinto/" />
       </div>
     </div>
   );
