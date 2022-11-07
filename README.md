@@ -17,7 +17,7 @@
 |:-|:-
 | 🏫 SIJA-26 | [Repo](https://github.com/AlvaJufinto/sija-26) · [Website](https://sija-26.vercel.app/) | 
 | 🤖 School Hall Management | [Repo](https://github.com/AlvaJufinto/School-Hall-management-system) · [Website](https://school-hall-management.vercel.app/) | 
-| Article : My Lil trick | [Repo](https://github.com/AlvaJufinto/my-little-trick) |
+| My stuff | [Repo](https://github.com/AlvaJufinto/my-little-trick) |
 
 <br>
 
