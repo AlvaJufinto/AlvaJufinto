@@ -1,7 +1,7 @@
 import React, { FC } from 'react';
 import ImageContainer from '../../atoms/ImageContainer/ImageContainer';
 
-import LogoAJ from "./../../assets/img/aj-img.png";
+import LogoAJ from "./../../../assets/img/aj-img.png";
 
 import "./style.scss";
 

@@ -1,7 +1,7 @@
 import React, { FC } from 'react';
 import Text, { TextType } from '../Text/Text';
 
-import ArrowIcon from "./../../assets/icon/arrow-link-icon.png";
+import ArrowIcon from "./../../../assets/icon/arrow-link-icon.png";
 import './style.scss';
 
 interface IState {

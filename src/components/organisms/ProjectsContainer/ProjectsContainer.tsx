@@ -5,9 +5,9 @@ import DescriptionContainer from '../../molecules/DescriptionContainer/Descripti
 import PortfolioContainer, { IState as IProps } from '../../molecules/PortfolioContainer/PortfolioContainer';
 
 // images
-import LibraerityImg from "./../../assets/img/libraerity-img.png";
-import DiscordImg from "./../../assets/img/discord-img.png";
-import SIJAImg from "./../../assets/img/sija-img.png";
+import LibraerityImg from "./../../../assets/img/libraerity-img.png";
+import DiscordImg from "./../../../assets/img/discord-img.png";
+import SIJAImg from "./../../../assets/img/sija-img.png";
 
 import "./style.scss" 
 

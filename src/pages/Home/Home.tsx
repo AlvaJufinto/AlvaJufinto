@@ -1,12 +1,12 @@
 import React, { FC } from 'react';
 
 // molecules 
-import Footer from '../../molecules/Footer/Footer';
+import Footer from '../../components/molecules/Footer/Footer';
 
 // organism
-import ProfileContainer from '../../organisms/ProfileContainer/ProfileContainer';
-import StackContainer from '../../organisms/StackContainer/StackContainer';
-import ProjectsContainer from '../../organisms/ProjectsContainer/ProjectsContainer';
+import ProfileContainer from '../../components/organisms/ProfileContainer/ProfileContainer';
+import StackContainer from '../../components/organisms/StackContainer/StackContainer';
+import ProjectsContainer from '../../components/organisms/ProjectsContainer/ProjectsContainer';
 
 
 const Home: FC = () => {
